@@ -10,7 +10,7 @@ All the files that are in the #-messages folders are for examples and need to be
 
 By default, the scan for messages is enabled for all apps, if you want to disable or don't have messages from one of three apps, you need to disable the configuration in config.ini.
 
-#Instagram
+# Instagram
 
     Folder: instagram-messages
 
@@ -26,7 +26,7 @@ The Instagram folder can look in the both ways:
 ![instagram1](https://user-images.githubusercontent.com/22797278/189763640-3372d7c0-8c42-42b6-8ab0-8151714cf4e9.PNG)
 
 
-#Whatsapp
+# Whatsapp
     
     Folder: whatsapp-messages
     
@@ -40,7 +40,7 @@ WhatsApp folder:
 
 ![whatsapp](https://user-images.githubusercontent.com/22797278/189763895-4e1e6210-91a1-48b9-992e-4a5cf4d713ee.PNG)
 
-#Telegram
+# Telegram
     
     Folder: telegram-messages
     
@@ -57,5 +57,5 @@ Telegram folder:
 ![telegram](https://user-images.githubusercontent.com/22797278/189763922-d58fe1a5-bb59-4210-a4cb-b6296d0fac5d.PNG)
 
     
-Example of plotted data: (Google Sheets)
+# Example of plotted data: (Google Sheets)
 ![Example of plotted data](https://user-images.githubusercontent.com/22797278/189762866-70638a0b-1430-47fb-ba31-ef9234da1465.png)
