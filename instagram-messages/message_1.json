@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "5 to go"
+    },
+    {
+      "name": "David P\u00c4\u0083s\u00c4\u0083rin \u00f0\u009f\u009b\u00b8"
+    }
+  ],
+  "messages": [
+    {
+      "sender_id_INTERNAL": 0,
+      "sender_name": "5 to go",
+      "timestamp_ms": 1601128261831,
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_id_INTERNAL": 0,
+      "sender_name": "David P\u00c4\u0083s\u00c4\u0083rin \u00f0\u009f\u009b\u00b8",
+      "timestamp_ms": 1601115094455,
+      "share": {
+        "link": "https://instagram.com/stories/david.pasarin/2406650286267810720"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    }
+  ],
+  "title": "5 to go",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/5togo_cwelizqzzw",
+  "magic_words": [
+    
+  ]
+}

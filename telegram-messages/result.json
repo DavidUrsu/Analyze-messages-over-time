@@ -1,0 +1,829 @@
+{
+ "name": "Car Searcher Bot",
+ "type": "bot_chat",
+ "id": 5125366694,
+ "messages": [
+  {
+   "id": 58522,
+   "type": "service",
+   "date": "2022-02-27T16:39:49",
+   "date_unixtime": "1645972789",
+   "actor": "Pasarin David",
+   "actor_id": "user644858567",
+   "action": "clear_history",
+   "text": ""
+  },
+  {
+   "id": 58529,
+   "type": "message",
+   "date": "2022-02-27T17:51:21",
+   "date_unixtime": "1645977081",
+   "from": "Pasarin David",
+   "from_id": "user644858567",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/start"
+    }
+   ]
+  },
+  {
+   "id": 58530,
+   "type": "message",
+   "date": "2022-02-27T17:51:39",
+   "date_unixtime": "1645977099",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 Momentum 7-Sitze Leder Navi LED Memory \nAt the price of 29490 euro \nNumber of kilometers: 257689 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d4-momentum-7-sitze-leder-navi-led-memory-motorina-gri-95cfa707-d91d-4187-b7f9-4e3aa70bde97"
+    }
+   ]
+  },
+  {
+   "id": 58531,
+   "type": "message",
+   "date": "2022-02-27T17:51:39",
+   "date_unixtime": "1645977099",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 Momentum 2WD Navi LED HeadUp ",
+    {
+     "type": "link",
+     "text": "MwSt.TOP"
+    },
+    " \nAt the price of 30990 euro \nNumber of kilometers: 149900 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-Momentum-2WD-Navi-LED-HeadUp/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,dmg:false/pg:vipcar/338348351.html"
+    }
+   ]
+  },
+  {
+   "id": 59185,
+   "type": "message",
+   "date": "2022-02-28T14:41:36",
+   "date_unixtime": "1646052096",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Audi A4 Todoterreno Automático de 5 Puertas \nAt the price of 13900 euro \nNumber of kilometers: 86900 \nYear of fabrication: 08/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/audi-a4-todoterreno-automatico-de-5-puertas-motorina-alb-74dc238e-1968-4e5a-89de-c70422149473"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 59186,
+   "type": "message",
+   "date": "2022-02-28T14:41:37",
+   "date_unixtime": "1646052097",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Audi A4 2.0 16V TDI+XENON+NAVI+SOUNDSYSTEM \nAt the price of 15300 euro \nNumber of kilometers: 395445 \nYear of fabrication: 02/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/audi-a4-2-0-16v-tdi-xenon-navi-soundsystem-motorina-alb-f00e3ac0-5283-4139-8ec3-6905573aaddf"
+    }
+   ]
+  },
+  {
+   "id": 59187,
+   "type": "message",
+   "date": "2022-02-28T14:41:37",
+   "date_unixtime": "1646052097",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Audi A4 Avant S-Line Sport*Virtual*Drive S*Kamera* \nAt the price of 15999 euro \nNumber of kilometers: 306100 \nYear of fabrication: 09/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Audi-A4-Avant-S-Line-Sport-Virtual-Drive-S/vhc:car,srt:price,sro:asc,ms1:1900_9_,frn:2018,dmg:false/pg:vipcar/338797419.html"
+    }
+   ]
+  },
+  {
+   "id": 59188,
+   "type": "message",
+   "date": "2022-02-28T14:41:37",
+   "date_unixtime": "1646052097",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Audi A4 Avant 2.0 TDI S tronic \nAt the price of 16310 euro \nNumber of kilometers: 214460 \nYear of fabrication: 04/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Audi-A4-Avant-2.0-TDI-S-tronic/vhc:car,srt:price,sro:asc,ms1:1900_9_,frn:2018,dmg:false/pg:vipcar/339724621.html"
+    }
+   ]
+  },
+  {
+   "id": 59189,
+   "type": "message",
+   "date": "2022-02-28T14:42:04",
+   "date_unixtime": "1646052124",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Audi A4 Todoterreno Automático de 5 Puertas \nAt the price of 13900 euro \nNumber of kilometers: 86900 \nYear of fabrication: 08/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/audi-a4-todoterreno-automatico-de-5-puertas-motorina-alb-74dc238e-1968-4e5a-89de-c70422149473"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 59190,
+   "type": "message",
+   "date": "2022-02-28T14:42:04",
+   "date_unixtime": "1646052124",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Audi A4 2.0 16V TDI+XENON+NAVI+SOUNDSYSTEM \nAt the price of 15300 euro \nNumber of kilometers: 395445 \nYear of fabrication: 02/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/audi-a4-2-0-16v-tdi-xenon-navi-soundsystem-motorina-alb-f00e3ac0-5283-4139-8ec3-6905573aaddf"
+    }
+   ]
+  },
+  {
+   "id": 59191,
+   "type": "message",
+   "date": "2022-02-28T14:42:04",
+   "date_unixtime": "1646052124",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Audi A4 Avant S-Line Sport*Virtual*Drive S*Kamera* \nAt the price of 15999 euro \nNumber of kilometers: 306100 \nYear of fabrication: 09/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Audi-A4-Avant-S-Line-Sport-Virtual-Drive-S/vhc:car,srt:price,sro:asc,ms1:1900_9_,frn:2018,dmg:false/pg:vipcar/338797419.html"
+    }
+   ]
+  },
+  {
+   "id": 59192,
+   "type": "message",
+   "date": "2022-02-28T14:42:04",
+   "date_unixtime": "1646052124",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Audi A4 Avant 2.0 TDI S tronic \nAt the price of 16310 euro \nNumber of kilometers: 214460 \nYear of fabrication: 04/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Audi-A4-Avant-2.0-TDI-S-tronic/vhc:car,srt:price,sro:asc,ms1:1900_9_,frn:2018,dmg:false/pg:vipcar/339724621.html"
+    }
+   ]
+  },
+  {
+   "id": 59193,
+   "type": "message",
+   "date": "2022-02-28T14:42:09",
+   "date_unixtime": "1646052129",
+   "from": "Pasarin David",
+   "from_id": "user644858567",
+   "text": "dd"
+  },
+  {
+   "id": 59359,
+   "type": "message",
+   "date": "2022-02-28T21:41:29",
+   "date_unixtime": "1646077289",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2.0 D5 AWD Momentum C Auto \nAt the price of 35490 euro \nNumber of kilometers: 127715 \nYear of fabrication: 02/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2-0-d5-awd-momentum-c-auto-motorina-gri-bcfc018d-06b7-4d40-b471-ebdb06619a3f"
+    }
+   ]
+  },
+  {
+   "id": 59360,
+   "type": "message",
+   "date": "2022-02-28T21:41:30",
+   "date_unixtime": "1646077290",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2.0 D5 AWD Momentum C Auto \nAt the price of 35490 euro \nNumber of kilometers: 127715 \nYear of fabrication: 02/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2-0-d5-awd-momentum-c-auto-motorina-gri-8108946b-8d13-49fc-be4a-0df663b3e37e"
+    }
+   ]
+  },
+  {
+   "id": 59361,
+   "type": "message",
+   "date": "2022-02-28T21:41:30",
+   "date_unixtime": "1646077290",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2.0 D5 AWD Momentum C Auto \nAt the price of 35490 euro \nNumber of kilometers: 127715 \nYear of fabrication: 02/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2-0-d5-awd-momentum-c-auto-motorina-gri-943968a5-9634-4960-ad7d-814fa8d80249"
+    }
+   ]
+  },
+  {
+   "id": 59818,
+   "type": "message",
+   "date": "2022-03-01T17:37:19",
+   "date_unixtime": "1646149039",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 Momentum 7-Sitze Leder Navi LED Ahk \nAt the price of 34980 euro \nNumber of kilometers: 136118 \nYear of fabrication: 02/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d4-momentum-7-sitze-leder-navi-led-ahk-motorina-negru-2daab3c3-597a-4b5d-8c59-daf4415a7893"
+    }
+   ]
+  },
+  {
+   "id": 59819,
+   "type": "message",
+   "date": "2022-03-01T17:37:20",
+   "date_unixtime": "1646149040",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 Momentum AWD \"Standheizung, Luftfahrwerk\" \nAt the price of 36990 euro \nNumber of kilometers: 124950 \nYear of fabrication: 03/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-momentum-awd-standheizung-luftfahrwerk-motorina-negru-c2b2232e-2662-4910-b4a1-43feeef17810"
+    }
+   ]
+  },
+  {
+   "id": 59820,
+   "type": "message",
+   "date": "2022-03-01T17:37:20",
+   "date_unixtime": "1646149040",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 Momentum 7-Sitze Leder Navi LED Ahk \nAt the price of 34980 euro \nNumber of kilometers: 136118 \nYear of fabrication: 02/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-D4-Momentum-7-Sitze-Leder-Navi-LED/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/340394403.html"
+    }
+   ]
+  },
+  {
+   "id": 60157,
+   "type": "message",
+   "date": "2022-03-02T16:45:44",
+   "date_unixtime": "1646232344",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD R-Design 1.Besitz Netto Export 25.500 Euro! \nAt the price of 31900 euro \nNumber of kilometers: 245000 \nYear of fabrication: 03/2019 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-r-design-1-besitz-netto-export-25-500-euro-motorina-negru-3f650094-4fc4-4134-9f3c-abc219f3631d"
+    }
+   ]
+  },
+  {
+   "id": 60158,
+   "type": "message",
+   "date": "2022-03-02T16:45:45",
+   "date_unixtime": "1646232345",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 Momentum AWD \"Standheizung, Luftfahrwerk\" \nAt the price of 36990 euro \nNumber of kilometers: 123450 \nYear of fabrication: 03/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-momentum-awd-standheizung-luftfahrwerk-motorina-negru-c2b2232e-2662-4910-b4a1-43feeef17810"
+    }
+   ]
+  },
+  {
+   "id": 60159,
+   "type": "message",
+   "date": "2022-03-02T16:45:45",
+   "date_unixtime": "1646232345",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 T5 AWD Geart. Momen PANORA+LED+MEMO+KAM+ACC \nAt the price of 33950 euro \nNumber of kilometers: 147350 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-T5-AWD-Geart.-Momen-PANORA-LED/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/340063725.html"
+    }
+   ]
+  },
+  {
+   "id": 60497,
+   "type": "message",
+   "date": "2022-03-03T18:38:13",
+   "date_unixtime": "1646325493",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic Inscription \nAt the price of 36980 euro \nNumber of kilometers: 140002 \nYear of fabrication: 03/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-inscription-motorina-gri-98202a08-4ff6-4535-8dc9-5d8d627dee1a"
+    }
+   ]
+  },
+  {
+   "id": 60498,
+   "type": "message",
+   "date": "2022-03-03T18:38:13",
+   "date_unixtime": "1646325493",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 B5 D AWD Geartronic R-Design \nAt the price of 34900 euro \nNumber of kilometers: 228000 \nYear of fabrication: 08/2019 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-B5-D-AWD-Geartronic-R-Design/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/340560070.html"
+    }
+   ]
+  },
+  {
+   "id": 61057,
+   "type": "message",
+   "date": "2022-03-05T13:53:47",
+   "date_unixtime": "1646481227",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2.0 D4 90th Anniversary Edition 7P. *HEAD-UP+LED-L \nAt the price of 32645 euro \nNumber of kilometers: 198176 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2-0-d4-90th-anniversary-edition-7p-head-up-led-l-motorina-negru-e6852386-30ad-4d43-9ad8-78cb21d26249"
+    }
+   ]
+  },
+  {
+   "id": 61058,
+   "type": "message",
+   "date": "2022-03-05T13:53:47",
+   "date_unixtime": "1646481227",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 Inscription AWD Panorama 21\" ACC \nAt the price of 33900 euro \nNumber of kilometers: 156000 \nYear of fabrication: 04/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-inscription-awd-panorama-21-acc-motorina-negru-ba0fdecb-6020-426f-983e-7888b8a744b0"
+    }
+   ]
+  },
+  {
+   "id": 61059,
+   "type": "message",
+   "date": "2022-03-05T13:53:48",
+   "date_unixtime": "1646481228",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Momentum LED/Navi/IntelliSafe/Kamera \nAt the price of 36248 euro \nNumber of kilometers: 86700 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-momentum-led-navi-intellisafe-kamera-motorina-e8c19e8d-aeb7-4532-a058-5eff97728d80"
+    }
+   ]
+  },
+  {
+   "id": 61060,
+   "type": "message",
+   "date": "2022-03-05T13:53:48",
+   "date_unixtime": "1646481228",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 XC90 2.0 d5 Inscription c21 awd 235cv 7p.ti geartr \nAt the price of 36500 euro \nNumber of kilometers: 110000 \nYear of fabrication: 12/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-xc90-2-0-d5-inscription-c21-awd-235cv-7p-ti-geartr-motorina-albastru-5dd56ff2-255f-49b3-a1fe-49a79f8da785"
+    }
+   ]
+  },
+  {
+   "id": 61061,
+   "type": "message",
+   "date": "2022-03-05T13:53:48",
+   "date_unixtime": "1646481228",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 Geartronic/LED Scheinwerfer/Distr.",
+    {
+     "type": "bot_command",
+     "text": "/7Sitz"
+    },
+    " \nAt the price of 32799 euro \nNumber of kilometers: 200000 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-D4-Geartronic-LED-Scheinwerfer/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/340628166.html"
+    }
+   ]
+  },
+  {
+   "id": 61062,
+   "type": "message",
+   "date": "2022-03-05T13:53:48",
+   "date_unixtime": "1646481228",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 Inscription AWD Panorama 21\" ACC \nAt the price of 33900 euro \nNumber of kilometers: 156000 \nYear of fabrication: 04/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-Inscription-AWD-Panorama-21-ACC/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/340618460.html"
+    }
+   ]
+  },
+  {
+   "id": 61387,
+   "type": "message",
+   "date": "2022-03-06T12:15:53",
+   "date_unixtime": "1646561753",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic Inscription \nAt the price of 14910 euro \nNumber of kilometers: 107058 \nYear of fabrication: 04/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-inscription-motorina-alb-6c8d15e6-2f27-4aea-b082-eaadc1284879"
+    }
+   ]
+  },
+  {
+   "id": 61388,
+   "type": "message",
+   "date": "2022-03-06T12:15:54",
+   "date_unixtime": "1646561754",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic Momentum 7 Sitzer \nAt the price of 15000 euro \nNumber of kilometers: 42000 \nYear of fabrication: 07/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-momentum-7-sitzer-motorina-bej-354eb60b-6dd3-43bc-84f6-c4824da5e62d"
+    }
+   ]
+  },
+  {
+   "id": 61389,
+   "type": "message",
+   "date": "2022-03-06T12:15:54",
+   "date_unixtime": "1646561754",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic RDesign \nAt the price of 27990 euro \nNumber of kilometers: 97817 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-rdesign-motorina-alb-5d22360b-ea26-4c4c-a165-49a17a91a59e"
+    }
+   ]
+  },
+  {
+   "id": 61914,
+   "type": "message",
+   "date": "2022-03-07T14:31:32",
+   "date_unixtime": "1646656292",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic 7 posti Inscription \nAt the price of 35500 euro \nNumber of kilometers: 150000 \nYear of fabrication: 10/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-7-posti-inscription-motorina-gri-3506df0d-fdb2-44ee-8002-470230022e0b"
+    }
+   ]
+  },
+  {
+   "id": 61915,
+   "type": "message",
+   "date": "2022-03-07T14:31:32",
+   "date_unixtime": "1646656292",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Momentum LED/Navi/IntelliSafe/Kamera \nAt the price of 36248 euro \nNumber of kilometers: 86700 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-momentum-led-navi-intellisafe-kamera-motorina-bd00a106-8c2e-4307-8b6a-c1a644dc444b"
+    }
+   ]
+  },
+  {
+   "id": 61916,
+   "type": "message",
+   "date": "2022-03-07T14:31:33",
+   "date_unixtime": "1646656293",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo Volvo Xc90 d5 AWD GEARTRONIC MOMENTUM \nAt the price of 34000 euro \nNumber of kilometers: 133000 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-Volvo-Xc90-d5-AWD-GEARTRONIC-MOMENTUM/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/340777367.html"
+    }
+   ]
+  },
+  {
+   "id": 63998,
+   "type": "message",
+   "date": "2022-03-10T17:21:51",
+   "date_unixtime": "1646925711",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 T5 AWD Geart. Momen PANORA+LED+MEMO+KAM+ACC \nAt the price of 32950 euro \nNumber of kilometers: 147350 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-t5-awd-geart-momen-panora-led-memo-kam-acc-benzina-albastru-b7bbb62a-b02e-4ca9-a667-e1de50868153"
+    }
+   ]
+  },
+  {
+   "id": 63999,
+   "type": "message",
+   "date": "2022-03-10T17:21:51",
+   "date_unixtime": "1646925711",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2.0 D4 FWD Momentum 7pl. Geartronic \nAt the price of 36998 euro \nNumber of kilometers: 154110 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2-0-d4-fwd-momentum-7pl-geartronic-motorina-albastru-3a3d7842-169e-4357-8dfc-2d8b25e2a2de"
+    }
+   ]
+  },
+  {
+   "id": 64000,
+   "type": "message",
+   "date": "2022-03-10T17:21:51",
+   "date_unixtime": "1646925711",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2.0 D4 4WD R-Design 7pl. Geartronic \nAt the price of 37000 euro \nNumber of kilometers: 120000 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2-0-d4-4wd-r-design-7pl-geartronic-motorina-gri-c845865c-b69d-43c9-81cc-7bdbe99b1456"
+    }
+   ]
+  },
+  {
+   "id": 64001,
+   "type": "message",
+   "date": "2022-03-10T17:21:52",
+   "date_unixtime": "1646925712",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 Momentum 7-Sitze Leder Navi LED Memory \nAt the price of 28990 euro \nNumber of kilometers: 257689 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-D4-Momentum-7-Sitze-Leder-Navi-LED/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/335929547.html"
+    }
+   ]
+  },
+  {
+   "id": 64002,
+   "type": "message",
+   "date": "2022-03-10T17:21:52",
+   "date_unixtime": "1646925712",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 Geartronic/LED Scheinwerfer/Distr.",
+    {
+     "type": "bot_command",
+     "text": "/7Sitz"
+    },
+    " \nAt the price of 29999 euro \nNumber of kilometers: 200000 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-D4-Geartronic-LED-Scheinwerfer/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/340628166.html"
+    }
+   ]
+  },
+  {
+   "id": 64003,
+   "type": "message",
+   "date": "2022-03-10T17:21:52",
+   "date_unixtime": "1646925712",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 Momentum 2WD Navi LED HeadUp ",
+    {
+     "type": "link",
+     "text": "MwSt.TOP"
+    },
+    " \nAt the price of 29999 euro \nNumber of kilometers: 149900 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-Momentum-2WD-Navi-LED-HeadUp/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/338348351.html"
+    }
+   ]
+  },
+  {
+   "id": 64004,
+   "type": "message",
+   "date": "2022-03-10T17:21:52",
+   "date_unixtime": "1646925712",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 T5 AWD Geart. Momen PANORA+LED+MEMO+KAM+ACC \nAt the price of 32950 euro \nNumber of kilometers: 147350 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-T5-AWD-Geart.-Momen-PANORA-LED/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/340063725.html"
+    }
+   ]
+  },
+  {
+   "id": 65363,
+   "type": "message",
+   "date": "2022-03-13T13:07:50",
+   "date_unixtime": "1647169670",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic Momentum 7 Sitzer \nAt the price of 15000 euro \nNumber of kilometers: 42000 \nYear of fabrication: 07/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-momentum-7-sitzer-motorina-bej-5a9ec608-2511-41d4-ac40-660aa5fc0c48"
+    }
+   ]
+  },
+  {
+   "id": 65364,
+   "type": "message",
+   "date": "2022-03-13T13:07:50",
+   "date_unixtime": "1647169670",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic Momentum \nAt the price of 15700 euro \nNumber of kilometers: 111147 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-momentum-motorina-alb-18d7b876-e2a2-4bf4-a2d4-53dd57b81f3d"
+    }
+   ]
+  },
+  {
+   "id": 65365,
+   "type": "message",
+   "date": "2022-03-13T13:07:50",
+   "date_unixtime": "1647169670",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 T8 2.0 Plug-in Hybrid Geartronic Inscription 7 Sit \nAt the price of 20000 euro \nNumber of kilometers: 41516 \nYear of fabrication: 04/2020 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-t8-2-0-plug-in-hybrid-geartronic-inscription-7-sit-electric-benzina-alb-694517af-0b52-4027-b6d7-21431eef61b0"
+    }
+   ]
+  },
+  {
+   "id": 65366,
+   "type": "message",
+   "date": "2022-03-13T13:07:50",
+   "date_unixtime": "1647169670",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2018 T6 AWD* 320Hp*7seats* \nAt the price of 22500 euro \nNumber of kilometers: 96000 \nYear of fabrication: 02/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2018-t6-awd-320hp-7seats-benzina-alb-3ddb47d1-5567-4f74-97bf-81e38954e8f1"
+    }
+   ]
+  },
+  {
+   "id": 65367,
+   "type": "message",
+   "date": "2022-03-13T13:07:50",
+   "date_unixtime": "1647169670",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic Inscription \nAt the price of 32000 euro \nNumber of kilometers: 39000 \nYear of fabrication: 04/2019 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-inscription-motorina-negru-51251ac8-b2d0-44c7-9c2e-9852fd0fef5b"
+    }
+   ]
+  },
+  {
+   "id": 65790,
+   "type": "message",
+   "date": "2022-03-14T14:50:10",
+   "date_unixtime": "1647262210",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2.0 D4 4WD R-Design 7pl. Geartronic \nAt the price of 35000 euro \nNumber of kilometers: 120000 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2-0-d4-4wd-r-design-7pl-geartronic-motorina-gri-c845865c-b69d-43c9-81cc-7bdbe99b1456"
+    }
+   ]
+  },
+  {
+   "id": 65791,
+   "type": "message",
+   "date": "2022-03-14T14:50:10",
+   "date_unixtime": "1647262210",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D5 AWD Geartronic Momentum \nAt the price of 36990 euro \nNumber of kilometers: 68047 \nYear of fabrication: 03/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d5-awd-geartronic-momentum-motorina-negru-2d8bd36e-f8ca-4475-8adc-f4674084a978"
+    }
+   ]
+  },
+  {
+   "id": 65792,
+   "type": "message",
+   "date": "2022-03-14T14:50:10",
+   "date_unixtime": "1647262210",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 2.0 D4 90th Anniversary Edition 7P. *HEAD-UP+LED-L \nAt the price of 37445 euro \nNumber of kilometers: 198176 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-2-0-d4-90th-anniversary-edition-7p-head-up-led-l-motorina-negru-a212fae7-0ff5-45da-b0e3-c3ffc27146e7"
+    }
+   ]
+  },
+  {
+   "id": 65793,
+   "type": "message",
+   "date": "2022-03-14T14:50:10",
+   "date_unixtime": "1647262210",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 R-Design Leder Navi B&amp;W Pano LED 360° \nAt the price of 37480 euro \nNumber of kilometers: 143041 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d4-r-design-leder-navi-b-w-pano-led-360-motorina-alb-08e44bda-5a68-4911-83b3-659dd136d027"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 65794,
+   "type": "message",
+   "date": "2022-03-14T14:54:59",
+   "date_unixtime": "1647262499",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 R-Design Leder Navi B&amp;W Pano LED 360° \nAt the price of 37480 euro \nNumber of kilometers: 143041 \nYear of fabrication: 01/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.autoscout24.ro/oferte/volvo-xc90-d4-r-design-leder-navi-b-w-pano-led-360-motorina-alb-08e44bda-5a68-4911-83b3-659dd136d027"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 65795,
+   "type": "message",
+   "date": "2022-03-14T14:55:52",
+   "date_unixtime": "1647262552",
+   "from": "Car Searcher Bot",
+   "from_id": "user5125366694",
+   "text": [
+    "A new car was found! Volvo XC90 D4 Momentum 7-Sitze Leder Navi LED Memory \nAt the price of 28990 euro \nNumber of kilometers: 257689 \nYear of fabrication: 06/2018 \n",
+    {
+     "type": "link",
+     "text": "https://www.mobile.de/ro/Automobil/Volvo-XC90-D4-Momentum-7-Sitze-Leder-Navi-LED/vhc:car,srt:price,sro:asc,ms1:25100_37_,frn:2018,ger:automatic_gear,dmg:false/pg:vipcar/335929547.html"
+    }
+   ]
+  }
+ ]
+}
